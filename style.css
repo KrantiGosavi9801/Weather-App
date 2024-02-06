@@ -25,14 +25,14 @@ body{
 .card{
     width: 90%;
     max-width: 470px;
-    min-width: 470px;
+    min-width: 450px;
     background: rgba(255, 255, 255, .1);
     backdrop-filter: blur(30px);
     border: 2px solid rgba(255, 255, 255, .2);
     color: #fff;
     margin: 20px auto 10px;
     border-radius: 20px;
-    padding: 40px 35px;
+    padding: 40px 30px;
     text-align: center;
 }
 .search{
